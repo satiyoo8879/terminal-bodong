@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 TERMINAL BODONG 
+# TERMINAL BODONG 
 ### *(Bodong CLI)*
 
 <a href="https://github.com/denvercoder1/readme-typing-svg">
@@ -26,26 +26,26 @@ Dapat dioperasikan di **Windows** (CMD / PowerShell / Terminal Laragon), **Linux
 
 ---
 
-## ✨ Fitur Mutasi (Kemampuan Utama)
+## Fitur Mutasi (Kemampuan Utama)
 
 | Modul | Perintah | Deskripsi Eksperimen |
 | :--- | :--- | :--- |
-| 🧹 **Cache Sweeper** | `bodong clean` | Melenyapkan folder residu kompilasi (`__pycache__`, `build/`). Gunakan bendera `--heavy` untuk membumihanguskan `node_modules` atau `vendor`. |
-| 🗂️ **Directory Organizer** | `bodong tidy` | Menyortir kekacauan file di satu folder ke dalam sub-folder spesifik (Images, Documents, Scripts) tanpa ampun. |
-| 🏗️ **Boilerplate Generator** | `bodong init` | Menciptakan kerangka proyek utuh (*PHP Native*, *Web Static*, *Python Modular*) dari ketiadaan dalam hitungan detik. |
-| 📡 **Project Radar** | `bodong scan` | Memindai anatomi direktori Anda, melacak ekstensi file parasit, dan menghitung total beban ukuran proyek. |
-| 🛡️ **Safe Mode** | `--dry-run` | Fitur pengecut namun berguna. Menyimulasikan pembersihan/perapian tanpa mengeksekusi satu byte pun data asli Anda. |
+| **Cache Sweeper** | `bodong clean` | Melenyapkan folder residu kompilasi (`__pycache__`, `build/`). Gunakan bendera `--heavy` untuk membumihanguskan `node_modules` atau `vendor`. |
+| **Directory Organizer** | `bodong tidy` | Menyortir kekacauan file di satu folder ke dalam sub-folder spesifik (Images, Documents, Scripts) tanpa ampun. |
+| **Boilerplate Generator** | `bodong init` | Menciptakan kerangka proyek utuh (*PHP Native*, *Web Static*, *Python Modular*) dari ketiadaan dalam hitungan detik. |
+| **Project Radar** | `bodong scan` | Memindai anatomi direktori Anda, melacak ekstensi file parasit, dan menghitung total beban ukuran proyek. |
+| **Safe Mode** | `--dry-run` | Fitur pengecut namun berguna. Menyimulasikan pembersihan/perapian tanpa mengeksekusi satu byte pun data asli Anda. |
 
 ---
 
-## ⚙️ Syarat Uji Coba
+## Syarat Uji Coba
 
 - **Python 3.7+** (Hanya itu yang Anda butuhkan).
 - Keberanian untuk menjalankan skrip dari terminal.
 
 ---
 
-## 🚀 Prosedur Instalasi (Top Secret)
+## Prosedur Instalasi (Top Secret)
 
 ### 1. Kloning Spesimen
 ```bash
